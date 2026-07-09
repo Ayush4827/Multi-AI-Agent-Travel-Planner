@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29848320/README.md)
 # AI Travel Planner (CrewAI Agents)
 
 This is a small project I built while learning about AI agents using CrewAI. The idea: instead of one AI trying to plan a whole trip by itself, split the job into a few "agents" that each handle one part, and have them pass their work along to the next one — kind of like a small team where everyone has one job.
